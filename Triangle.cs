@@ -59,6 +59,7 @@ namespace Lagunovski_Triangle
         }
         public double Surface()//Функция для поиска площади
         {
+            //
             //-----------------------------------------------//
             //                                               //
             double s = 0;                                    //
